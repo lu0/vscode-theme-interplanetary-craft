@@ -1,0 +1,21 @@
+{
+    "name": "interplanetary-craft-dark-theme",
+    "displayName": "interplanetary-craft-dark-theme",
+    "description": "A custom VSCode Theme extension I made based on Monokai.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Interplanetary Craft Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/interplanetary-craft-dark-theme.json"
+            }
+        ]
+    }
+}
