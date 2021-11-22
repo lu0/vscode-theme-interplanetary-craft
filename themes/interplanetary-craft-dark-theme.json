@@ -681,13 +681,13 @@
 			"scope": "markup.heading.setext",
 			"settings": {
 				"foreground": "#A6E22E",
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "markup.heading.markdown",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -700,7 +700,7 @@
 		{
 			"scope": "markup.bold.markdown",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
